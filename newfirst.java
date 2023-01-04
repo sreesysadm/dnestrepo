@@ -1,4 +1,4 @@
-this is the first java program in cloudbots proj
+this is the first java program in cloudbots proj...written on bug1.0
 
 adding second line of code
 
